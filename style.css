@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+    overflow-y: hidden;
+    font-family: 'Open Sans', sans-serif;   
+}
+
+.card {
+    background: url(./Archive/frame\ id.png);
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    margin: 6% auto;
+    background-position: center;
+    text-align: center;
+}
+
+.card .person-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    /* margin-left: 25.5%; */
+    margin-top: 26%;
+    /* text-align: center; */
+}
+
+.content-box-one {
+    text-align: center;
+    /* margin-left: 30%; */
+}
+
+.content-box-one .member-info-name {
+    line-height: 16px;
+}
+
+.content-box-one .member-info-pos {
+    line-height: 6px;
+    color: #1D8348;
+}
+
+.content-box-two {
+    margin-top: 10%;
+}
+
+.content-box-two p {
+    line-height: 15px;
+}
+
+.content-box-two p span {
+    font-weight: 700;
+    color: #2B4DE7;
+}
