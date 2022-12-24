@@ -55,8 +55,7 @@ body {
 
 @media only screen and (max-width: 900px) {
     .card {
-        background-position: initial;
-        margin: 0 auto;
-        overflow: hidden;
+        width: 95%;
+        text-align: center;
     }
 }
