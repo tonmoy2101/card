@@ -59,4 +59,7 @@ body {
         text-align: center;
         margin: 6% auto;
     }
+    .card .person-img {
+        margin-top: 30%;
+    }
 }
