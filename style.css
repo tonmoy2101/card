@@ -57,9 +57,9 @@ body {
     .card {
         width: 95%;
         text-align: center;
-        margin: 6% auto;
+        margin: 8% auto;
     }
     .card .person-img {
-        margin-top: 32.5%;
+        margin-top: 33%;
     }
 }
