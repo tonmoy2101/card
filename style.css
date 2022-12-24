@@ -65,3 +65,16 @@ body {
         width: 140px;
     }
 }
+
+@media only screen and (max-width: 500px) {
+    .card {
+        width: 95%;
+        text-align: center;
+        margin: 8% auto;
+    }
+    .card .person-img {
+        margin-top: 35%;
+        height: 140px;
+        width: 140px;
+    }
+}
