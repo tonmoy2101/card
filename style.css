@@ -57,5 +57,6 @@ body {
     .card {
         background-position: initial;
         margin: 0 auto;
+        overflow: hidden;
     }
 }
