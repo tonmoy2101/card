@@ -61,5 +61,7 @@ body {
     }
     .card .person-img {
         margin-top: 33%;
+        height: 150px;
+        width: 150px;
     }
 }
